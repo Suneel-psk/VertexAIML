@@ -1,6 +1,6 @@
 FounderID,Industry,StartupStage,FundingRequired,Traction,BusinessModel
-1,Fintech,Seed,500000,EarlyRevenue,B2C
-2,Healthcare,Series A,2000000,Growing,B2B
-3,E-commerce,Pre-Seed,100000,Prototype,B2C
-4,EdTech,Seed,300000,EarlyRevenue,B2B
-5,Agritech,Series B,5000000,Established,B2C
+1,Real Estate,Pre-Seed,150000,Prototype,B2B
+2,Artificial Intelligence,Seed,700000,EarlyRevenue,B2C
+3,CleanTech,Series A,2500000,Growing,B2B
+4,Blockchain,Series B,6000000,Established,B2C
+5,Social Media,Seed,400000,EarlyRevenue,B2C
